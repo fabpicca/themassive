@@ -1,4 +1,4 @@
 site_title="The Massive"
-theme_dir="theme2"
+theme_dir="../stream/_themassive"
 social_button=false
 backgroundcolor="#ffffff"
